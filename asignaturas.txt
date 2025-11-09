@@ -1,0 +1,101 @@
+
+GR-Informatica-Plan-2023-Curso-1
+ - Fundamentos de Organización de las TIC
+ - Fundamentos Físicos de la Informática I
+ - Introducción a la Ingeniería Informática
+ - Programación I
+ - Fundamentos Físicos de la Informática II
+ - Modelos de Computación
+ - Programación II
+ - Claves de Historia Contemporánea
+ - Fundamentos Matemáticos de la Informática I
+ - Fundamentos Matemáticos de la Informática II
+
+GR-Informatica-Plan-2023-Curso-2
+ - Estadística
+ - Arquitectura de Ordenadores
+ - Bases de Datos I
+ - Metodología y Tecnología de la Programación
+ - Redes de Ordenadores I
+ - Análisis de los Estados Financieros
+ - Bases de Datos II
+ - Gestión Financiera
+ - Redes de Ordenadores II
+ - Sistemas Operativos
+
+GR-Informatica-Plan-2023-Curso-3
+ - Infraestructuras de Sistemas de Información
+ - Ingeniería del Software
+ - Inteligencia Artificial e Ingeniería del Conocimiento
+ - Proyectos de Sistemas de Información
+ - Sistemas de Información en la Empresa I
+ - Administración de Sistemas de Información
+ - Gestión Operativa de la Empresa TIC
+ - Programación en Entornos Distribuidos
+ - Optativa
+
+GR-Informatica-Plan-2023-Curso-4
+ - Doctrina Social de la Iglesia
+ - Hombre y Mundo Moderno
+ - Seguridad Informática y Protección de Datos
+ - Sistemas Web I
+ - Recursos Humanos en las Empresas TIC
+ - Sistemas Web II
+ - Prácticas Externas
+ - Trabajo de Fin de Grado
+ - Optativa
+
+GR-Informatica-Plan-2023-Curso-Optativas
+ - Estrategia y Política Empresarial en las Empresas TIC
+ - Bioética
+ - Grandes Libros
+ - Introducción al Cristianismo
+ - Sistemas de Información en la Empresa II
+ - Sistemas de Información para la Dirección Estratégica
+
+GR-Informatica-Plan-2010-Curso-1
+ - Programación I
+ - Fundamentos Físicos de la Informática II
+ - Modelos de Computación
+ - Fundamentos Matemáticos de la Informática II
+ - Fundamentos de Organización de las TIC
+ - Fundamentos Físicos de la Informática I
+ - Fundamentos Matemáticos de la Informática I
+ - Introducción a la Ingeniería Informática
+ - Programación II
+ - Claves de Historia y Literatura
+
+GR-Informatica-Plan-2010-Curso-2
+ - Estadística
+ - Arquitectura de Ordenadores
+ - Bases de Datos I
+ - Metodología y Tecnología de la Programación
+ - Redes de Ordenadores I
+ - Análisis de los Estados Financieros
+ - Bases de Datos II
+ - Gestión Financiera
+ - Redes de Ordenadores II
+ - Sistemas Operativos
+
+GR-Informatica-Plan-2010-Curso-3
+ - Infraestructuras de Sistemas de Información
+ - Ingeniería del Software
+ - Inteligencia Artificial e Ingeniería del Conocimiento
+ - Proyectos de Sistemas de Información
+ - Sistemas de Información en la Empresa I
+ - Administración de Sistemas de Información
+ - Gestión Operativa de la Empresa TIC
+ - Programación en Entornos Distribuidos
+ - Sistemas de Información en la Empresa II
+ - Sistemas de Información para la Dirección Estratégica
+
+GR-Informatica-Plan-2010-Curso-4
+ - Doctrina Social de la Iglesia
+ - Estrategia y Política Empresarial en las Empresas TIC
+ - Seguridad Informática y Protección de Datos
+ - Sistemas Web I
+ - Recursos Humanos en las Empresas TIC
+ - Sistemas Web II
+ - Prácticas Externas
+ - Trabajo de Fin de Grado
+ - Ética y Deontología
